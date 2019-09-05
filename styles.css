@@ -1,1 +1,13 @@
-
+*{
+  text-align: center;
+}
+html{
+  background-color: #92D42D;
+}
+h1{
+  color: #EA2017;
+   font-family: 'Amatic' serif;
+}
+h2{
+  color: #B419EA;
+}
